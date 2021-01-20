@@ -1,6 +1,7 @@
-# 50Days50Projects
+# Vidhilekha is the collection of my experiments using HTML, CSS, Javascript along with various frameworks to augment my Front-End Development Skill.
+
 This is Short Web Projects that made by us for practice Technology used is HTML5, CSS3, JAVASCRIPT
-# 50 Projects in 50 Days - HTML/CSS and JavaScript
+# HTML/CSS and JavaScript
 
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
