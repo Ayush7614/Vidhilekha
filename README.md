@@ -4,7 +4,7 @@ This is Short Web Projects that made by us for practice Technology used is HTML5
 # HTML/CSS and JavaScript
 
 ![Vidhilekha](https://socialify.git.ci/Ayush7614/Vidhilekha/image?
-forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark
+forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
