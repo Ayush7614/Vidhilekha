@@ -3,7 +3,14 @@
 This is Short Web Projects that made by us for practice Technology used is HTML5, CSS3, JAVASCRIPT
 # HTML/CSS and JavaScript
 
-![Vidhilekha](https://socialify.git.ci/Ayush7614/Vidhilekha/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+![Vidhilekha](https://socialify.git.ci/Ayush7614/Vidhilekha/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
 
 
 
